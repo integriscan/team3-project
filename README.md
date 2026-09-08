@@ -5,7 +5,7 @@
 
 | 구분 | 링크 |
 |---|---|
-| 랜딩 페이지 | https://integriscan.github.io/team3-project/ |
+| 랜딩 페이지 | https://integriscan.app/team3-project/ |
 | 칸반 보드 | (프로젝트 탭 참고) |
 | 마일스톤 | https://github.com/integriscan/team3-project/milestones |
 | 이슈 | https://github.com/integriscan/team3-project/issues |
@@ -92,7 +92,7 @@
 README 내용을 바탕으로 바이브코딩으로 제작한 팀 소개 페이지입니다.
 프레임워크 없이 **HTML, CSS, JavaScript**만 사용했고 GitHub Pages로 배포합니다.
 
-- 배포 주소: https://integriscan.github.io/team3-project/
+- 배포 주소: https://integriscan.app/team3-project/
 - 구성: 소개(Hero) · 프로젝트 · 팀원 · 일하는 방식 · 로드맵 · 링크
 
 ### 로컬에서 열기
